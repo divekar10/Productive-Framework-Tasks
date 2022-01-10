@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemonstrateUseOfConstructor", "DemonstrateUseOfConstructor\DemonstrateUseOfConstructor.csproj", "{900BAAA9-4013-4162-9BD5-411D63DA204D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{900BAAA9-4013-4162-9BD5-411D63DA204D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900BAAA9-4013-4162-9BD5-411D63DA204D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900BAAA9-4013-4162-9BD5-411D63DA204D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900BAAA9-4013-4162-9BD5-411D63DA204D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFDB48C0-F370-4063-BA47-410B7B73B420}
+	EndGlobalSection
+EndGlobal
